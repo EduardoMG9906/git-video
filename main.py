@@ -1,4 +1,4 @@
-print('hola mundo')
+
 
 X = 2
 Y = 4
